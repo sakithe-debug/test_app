@@ -1,0 +1,6 @@
+{
+  "name": "Djamo Card Manager",
+  "description": "Gestion de carte bancaire Djamo: blocage de carte, paramètres de sécurité et blocage des paiements marchands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
